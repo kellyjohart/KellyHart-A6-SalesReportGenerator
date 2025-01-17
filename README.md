@@ -41,9 +41,8 @@ Built using **Java Streams**, it processes real-world sales data from CSV files 
 - Designed modular and maintainable code for clean data processing.
 
 ---
-
 ## 🚀 **How to Run**
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/kellyjohart/TeslaSalesReportGenerator.git
