@@ -1,7 +1,7 @@
 # 🚗 Tesla Sales Report Generator
 
 This project is a **Sales Report Generator** for analyzing Tesla's vehicle sales data between 2016 and 2019. 
-Built using **Java Streams**, it processes real-world sales data from CSV files to generate insightful yearly sales reports and identify sales trends.
+Built using **Java Streams**, it processes real-world sales data from CSV files to generate yearly sales reports and identify sales trends.
 
 ---
 
